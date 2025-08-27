@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Lorenzo 👋
 
-<!--
-**catalanoLD/catalanoLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a junior software developer & web app designer
+🔧 Skills: Python, HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+📌 Check out my pinned projects below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔥 Featured Projects
+
+
+# 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/catalanold/)
+- [Email](mailto:lorenzo.d.catalano@gmail.com)
