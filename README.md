@@ -3,6 +3,7 @@
 🚀 I'm a junior software developer & web app designer
 🔧 Skills: Python, HTML, CSS, JavaScript
 
+
 📌 Check out my pinned projects below!
 
 # 🔥 Featured Projects
